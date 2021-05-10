@@ -1,4 +1,4 @@
-Com esse treinamento foi possível compreender a criação de scripts utilizando a biblioteca Selenium WebDriver, framework JUnit e a linguagem de programação Java. Tudo isso em uma aplicação real e ministrado por Júli de Lima pela plataforma Udemy.
+Com esse treinamento foi possível compreender a criação de scripts utilizando a biblioteca Selenium WebDriver, framework JUnit e a linguagem de programação Java. Tudo isso em uma aplicação real e ministrado por Júlio de Lima pela plataforma Udemy.
 
 
 <h4 align="center"> 
