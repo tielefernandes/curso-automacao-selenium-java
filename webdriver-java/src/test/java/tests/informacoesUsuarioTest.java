@@ -94,7 +94,7 @@ public class informacoesUsuarioTest {
         String mensagem = mensagemPop.getText();
         assertEquals("Rest in peace, dear phone!", mensagem);
 
-        String screenshotArquivo = "C:\\Users\\tiele.fernandes\\IdeaProjects\\webdriver-java\\src\\test\\java\\taskit"
+        String screenshotArquivo = "C:\\Users\\{DIRETÓRIO DE PREFERÊNCIA}\\src\\test\\java\\taskit"
                 + Generator.dataHoraParaArquivo() + test.getMethodName() +".png";
         Screenshot.tirar(navegador, screenshotArquivo);
 
