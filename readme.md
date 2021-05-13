@@ -19,3 +19,5 @@ Scripts planejados e executados
 - [x] Cadastro de usuário
 - [x] Exclusão de usuário
 - [x] Configuração para geração de evidências de teste com screenshots
+- [x] Testes dirigidos a dados (Data-driven testing)
+- [ ] Page objects
